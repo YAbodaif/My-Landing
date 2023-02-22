@@ -1,0 +1,14 @@
+:root{
+    --Very-Pale-Cyan: hsl(193, 100%, 96%);
+    --Very-Dark-Cyan: hsl(192, 100%, 9%);
+    --Grayish-Blue: hsl(208, 11%, 55%);
+    --Primary-Pink: hsl(322, 100%, 66%);
+
+    
+}
+
+.nav-container .try-btn{
+    color:var(--bg-dark);
+    background-color: var(--section-color);
+    outline: 1 px solid transparent;
+}
